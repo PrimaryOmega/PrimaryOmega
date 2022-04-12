@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PrimaryOmega</h1>
-<h3 align="center">Backend and frontend developer from Ecuador</h3>
+<h3 align="center">Backend and frontend developer from Ecuador 🇪🇨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=primaryomega&label=Profile%20views&color=0dccf2&style=flat-square" alt="primaryomega" /> </p>
 
